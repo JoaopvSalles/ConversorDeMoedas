@@ -1,7 +1,7 @@
 # Conversor de Real para Dolar
 
 
-> Programa criado em ```HTML``` ```CSS``` ```PHP``` com o intuito de praticar e desenvolver conhecimento nas tecnologias.
+> Programa criado em ```HTML``` ```CSS``` ```PHP``` utilizando ```API``` com o intuito de praticar e desenvolver conhecimento nas tecnologias.
 <br />
 
 ![03-ConversorDeMoedas](https://github.com/JoaopvSalles/Project-PHP-ConversorDeMoedas/assets/64203633/063b95cd-91c9-4aa5-a202-61a36fd58468)
